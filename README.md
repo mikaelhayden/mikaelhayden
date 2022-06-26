@@ -25,7 +25,6 @@
   <img align="center" alt="mika-canva" height="30" width="90" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
   <img align="center" alt="mika-lgth" height="30" width="90" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
   <img align="center" alt="mika-it" height="30" width="90" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
-  <img align="center" alt="mika-it" height="30" width="90" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   </div>
   
   <div style="display: inline_block"><br>
