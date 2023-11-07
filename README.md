@@ -14,8 +14,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/mikaelhayden">
-  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mikaelhayden&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelhayden&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mikaelhayden&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelhayden&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   <h2 align="center">Tecnologias</a> </h2>
