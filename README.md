@@ -14,8 +14,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/mikaelhayden">
-  <img width="59%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mikaelhayden&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelhayden&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mikaelhayden&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelhayden&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   <h2 align="center">Tecnologias</a> </h2>
@@ -27,7 +27,7 @@
   <img align="center" alt="Android" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Bootstrap" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="git" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="45" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"   >
+  <img align="center" alt="git" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="reactjs" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="reactjs" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="reactjs" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
