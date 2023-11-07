@@ -1,57 +1,45 @@
-## Oii eu sou Mikael Hayden, desenvolvedor de games e acadêmico em Engenharia de Software!
 
-- 🔭 no momento estou trabalhando com Unity e C#
-- 🌱 atualmente estou aprendendo Boas práticas em programação
-- 👯 procuro colaborar com o desenvolvimento da tecnologia
-- 💬 Pergunte-me sobre programação em geral
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Criador da melhor macarronada do mundo segundo a revista EU
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Mikael+Hayden;Eu+Tenho+22+Anos;Sou+Programador+FrontEnd;E+Desenvolvo+Jogos)](https://git.io/typing-svg)
+
+<div align="center">
+- 🔭 no momento estou trabalhando com Unity e C#<br>
+- 🌱 atualmente estou aprendendo Boas práticas em programação<br>
+- 👯 procuro colaborar com o desenvolvimento da tecnologia<br>
+- 💬 Pergunte-me sobre programação em geral<br>
+- 😄 Pronouns: Ele/Dele<br>
+- ⚡ Fun fact: Criador da melhor macarronada do mundo segundo a revista EU<br>
+</div>
+
 ##
 <br>
 <div align="center">
   <a href="https://github.com/mikaelhayden">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaelhayden&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelhayden&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="59%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mikaelhayden&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelhayden&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-  
-  <div style="display: inline_block"><br>
-      <img align="center" alt="mika-" height="30" width="90" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-      <img align="center" alt="mika-" height="30" width="90" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-      <img align="center" alt="mika-" height="30" width="90" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-      <img align="center" alt="mika-" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img align="center" alt="mika-" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img align="center" alt="mika-" height="30" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <br>
-      <img align="center" alt="mika-" height="30" width="90" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-      <img align="center" alt="mika-" height="30" width="90" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-      <img align="center" alt="mika-" height="30" width="90" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img align="center" alt="mika-" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-      <img align="center" alt="mika-" height="30" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-      <img align="center" alt="mika-" height="30" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+  <h2 align="center">Tecnologias</a> </h2>
+  <div align="center" valign="top"><br>
+  <img align="center" alt="Vscode" height="45" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Js" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Android" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Bootstrap" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="git" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="45" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"   >
+  <img align="center" alt="reactjs" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="reactjs" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="reactjs" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 64 64">
   </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="mika-unity" height="30" width="90" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-  <img align="center" alt="mika-git" height="30" width="90" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="mika-vs" height="30" width="90" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <img align="center" alt="mika-arduino" height="30" width="90" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img align="center" alt="mika-android" height="30" width="90" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"><br>
-  <img align="center" alt="mika-blender" height="30" width="90" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-  <img align="center" alt="mika-figma" height="30" width="90" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img align="center" alt="mika-canva" height="30" width="90" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-  <img align="center" alt="mika-lgth" height="30" width="90" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
-  <img align="center" alt="mika-it" height="30" width="90" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+  <br><br><br>
+  <div align="center">
+   <a href="https://discord.com/channels/@me/887042376579817545" target="_blank"><img  width="130" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mikaelhayden/" width="40" target="_blank"><img  width="138"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:contatoshayden@gmail.com" width="40" target="_blank"><img  width="109"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mikaelhayden.itch.io" width="40" target="_blank"><img  width="120"src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
   </div>
-  
-  <br>
-  
-  <div> 
-    <a href="mailto:thehackerinfo3@gmail.com" target="_blank"><img height="40" width="110" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://instagram.com/mikael_hayden" target="_blank"><img height="40" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://twitter.com" target="_blank"><img height="40" width="110" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/mikael-hayden-71b0861b5/" target="_blank"><img height="40" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-   
-</div>
   
   ![Snake animation](https://github.com/mikaelhayden/mikaelhayden/blob/output/github-contribution-grid-snake.svg)
-    
