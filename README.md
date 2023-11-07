@@ -41,5 +41,3 @@
   <a href="mailto:contatoshayden@gmail.com" width="40" target="_blank"><img  width="109"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="mikaelhayden.itch.io" width="40" target="_blank"><img  width="120"src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
   </div>
-  
-  ![Snake animation](https://github.com/mikaelhayden/mikaelhayden/blob/output/github-contribution-grid-snake.svg)
